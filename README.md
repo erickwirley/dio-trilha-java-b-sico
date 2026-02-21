@@ -1,2 +1,2 @@
-# dio-trilha-java-b-sico
+# dio-trilha-java-básico
 Aulas de java DIO
