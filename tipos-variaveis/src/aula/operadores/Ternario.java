@@ -2,12 +2,12 @@ package aula.operadores;
 
 public class Ternario {
     public static void main(String[] args) {
-        int a, b, c;
+        int a, b; //c;
         String nome1, nome2;
 
         a = 1;
         b = 2;
-        c = 3;
+        //c = 3;
         nome1 = "Erick";
         nome2 = "Erick";
 
